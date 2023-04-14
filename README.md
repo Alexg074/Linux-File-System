@@ -1,6 +1,6 @@
 // Copyright 2021-2022 Cristian-Vlad Albu & Mihai-Alexandru Georgescu, 312CA
 
-Tema 3 SD - Simple Linux File System
+Tema 3 SD - Linux File System
 
 =========================  Description  ===================================
 
