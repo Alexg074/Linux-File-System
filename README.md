@@ -131,5 +131,4 @@ sau director) din source_path in destination_path;
 -> Analog comenzii cp, continutul de la source_path este copiat la 
 destination_path, diferenta fiind ca in cazul comenzii mv se sterge mai
 apoi continutul de la source_path.
-=========================================================================
 
