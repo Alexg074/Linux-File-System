@@ -1,6 +1,6 @@
 // Copyright 2021-2022 Cristian-Vlad Albu & Mihai-Alexandru Georgescu, 312CA
 
-Tema 3 SD - Linux File System
+Linux File System - Team Project
 
 =========================  Description  ===================================
 
